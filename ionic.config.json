@@ -1,0 +1,8 @@
+{
+  "name": "ZooBitat_Front_Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3a9be530"
+}
